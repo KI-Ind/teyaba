@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "services": "Services",
+    "events": "Events",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "The Art of Moroccan Cuisine",
+    "subtitle": "Discover authentic Moroccan flavors with our exceptional catering service",
+    "orderNow": "Order Now",
+    "viewMenu": "View Menu"
+  },
+  "contact": {
+    "address": "54 Avenue de la Motte Picquet, 75015 Paris",
+    "phone": "01 84 20 00 80",
+    "email": "contact@teyaba.com",
+    "hours": "Mon - Sat: 9:00 AM - 8:00 PM"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Início",
+    "menu": "Cardápio",
+    "services": "Serviços",
+    "events": "Eventos",
+    "gallery": "Galeria",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "A Arte da Culinária Marroquina",
+    "subtitle": "Descubra os autênticos sabores marroquinos com nosso excepcional serviço de buffet",
+    "orderNow": "Peça Agora",
+    "viewMenu": "Ver Cardápio"
+  },
+  "contact": {
+    "address": "54 Avenue de la Motte Picquet, 75015 Paris",
+    "phone": "01 84 20 00 80",
+    "email": "contact@teyaba.com",
+    "hours": "Seg - Sáb: 9:00 - 20:00"
+  }
+}

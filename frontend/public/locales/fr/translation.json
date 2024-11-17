@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "services": "Services",
+    "events": "Événements",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "L'Art de la Cuisine Marocaine",
+    "subtitle": "Découvrez l'authenticité des saveurs marocaines avec notre service traiteur d'exception",
+    "orderNow": "Commander maintenant",
+    "viewMenu": "Voir nos menus"
+  },
+  "menu": {
+    "title": "Notre Menu",
+    "featured": "Nos Spécialités",
+    "featuredDescription": "Découvrez nos plats signatures, préparés avec passion"
+  },
+  "about": {
+    "title": "Notre Histoire",
+    "description": "Une tradition culinaire transmise de génération en génération"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Notre équipe est à votre écoute",
+    "address": "54 Avenue de la Motte Picquet, 75015 Paris",
+    "phone": "01 84 20 00 80",
+    "email": "contact@teyaba.com",
+    "hours": "Lun - Sam: 9h00 - 20h00"
+  },
+  "footer": {
+    "rights": "Tous droits réservés"
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "message": "La page que vous recherchez n'existe pas",
+    "backHome": "Retour à l'accueil"
+  }
+}
